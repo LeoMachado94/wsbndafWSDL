@@ -1,6 +1,6 @@
 {
     "name": "leomachado94/wsbndafwsdl",
-    "description": "Package generated from http://horusws.treinamento.saude.gov.br/horus-ws-service/HorusWSService/HorusWS?wsdl using wsdltophp/packagegenerator",
+    "description": "Package generated from http://horusws.treinamento.saude.gov.br/horus-ws-service/HorusWSService/HorusWS?wsdl using wsdltophp/packagegenerator. Leo M.",
     "require": {
         "php": ">=5.3.3",
         "ext-soap": "*",
